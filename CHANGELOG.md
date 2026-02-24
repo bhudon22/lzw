@@ -9,23 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.3] - 2026-02-23
 
-No functional changes.
-
-## [1.0.2] - 2026-02-23
-
-### Removed
-- `lzw/lzw.cs` (unused empty file) from version control
-
-## [1.0.1] - 2026-02-23
-
 ### Added
 - README with usage instructions, algorithm explanation, license, and changelog link
 - CHANGELOG.md
 - MIT license
 - Release notes link to changelog
-
-### Removed
-- `.gitignore` and `CLAUDE.md` from version control
 
 ## [1.0.0] - 2026-02-23
 
