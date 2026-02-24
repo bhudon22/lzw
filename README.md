@@ -36,6 +36,10 @@ Both `Compress` and `Decompress` operate on **UTF-8 bytes**, so any Unicode stri
 
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download)
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 [MIT](LICENSE)
