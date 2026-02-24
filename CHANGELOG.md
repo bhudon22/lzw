@@ -7,8 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-02-23
+
 ### Added
-- README links to this changelog
+- README with usage instructions, algorithm explanation, license, and changelog link
+- CHANGELOG.md
+- MIT license
+- Release notes link to changelog
+
+### Removed
+- `.gitignore` and `CLAUDE.md` from version control
 
 ## [1.0.0] - 2026-02-23
 
